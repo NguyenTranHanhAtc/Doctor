@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "swiper": "^11.1.5"
+  },
+  "devDependencies": {
+    "file-loader": "^6.2.0"
+  }
+}
